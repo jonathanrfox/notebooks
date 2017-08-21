@@ -1,0 +1,192 @@
+[{
+    "team": "dolphins",
+    "stadium": "sun life stadium",
+    "lat": "25.958056",
+    "long": "-80.238889"
+},
+{
+    "team": "patriots",
+    "stadium": "gilette stadium",
+    "lat": "42.090833",
+    "long": "-71.264167"
+},
+{
+    "team": "bills",
+    "stadium": "ralph wilson stadium",
+    "lat": "42.774",
+    "long": "-78.787"
+},
+{
+    "team": "jets",
+    "stadium": "metlife stadium",
+    "lat": "40.8139642",
+    "long": "-74.0745057"
+},
+{
+    "team": "steelers",
+    "stadium": "heinz field",
+    "lat": "40.446667",
+    "long": "-80.015833"
+},
+{
+    "team": "browns",
+    "stadium": "firstenergy stadium",
+    "lat": "41.506111",
+    "long": "-81.699444"
+},
+{
+    "team": "ravens",
+    "stadium": "m&t bank stadium",
+    "lat": "39.277778",
+    "long": "-76.6225"
+},
+{
+    "team": "bengals",
+    "stadium": "paul brown stadium",
+    "lat": "39.095278",
+    "long": "-84.515833"
+},
+{
+    "team": "colts",
+    "stadium": "lucas oil stadium",
+    "lat": "39.76",
+    "long": "-86.163611"
+},
+{
+    "team": "texans",
+    "stadium": "nrg stadium",
+    "lat": "29.684722",
+    "long": "-95.410833"
+},
+{
+    "team": "titans",
+    "stadium": "lp field",
+    "lat": "36.166389",
+    "long": "-86.771389"
+},
+{
+    "team": "jaguars",
+    "stadium": "everbank",
+    "lat": "30.323889",
+    "long": "-81.6375"
+},
+{
+    "team": "broncos",
+    "stadium": "sports authority field",
+    "lat": "39.743889",
+    "long": "-105.02"
+},
+{
+    "team": "chargers",
+    "stadium": "qualcomm stadium",
+    "lat": "32.7824787",
+    "long": "-117.1197711"
+},
+{
+    "team": "chiefs",
+    "stadium": "arrowhead stadium",
+    "lat": "39.048889",
+    "long": "-94.483889"
+},
+{
+    "team": "raiders",
+    "stadium": "o.co coliseum",
+    "lat": "37.751667",
+    "long": "-122.200556"
+},
+{
+    "team": "cowboys",
+    "stadium": "at&t stadium",
+    "lat": "32.747778",
+    "long": "-97.092778"
+},
+{
+    "team": "redskins",
+    "stadium": "fedexfield",
+    "lat": "38.907778",
+    "long": "-76.864444"
+},
+{
+    "team": "eagles",
+    "stadium": "lincoln financial field",
+    "lat": "39.900833",
+    "long": "-75.1675"
+},
+{
+    "team": "giants",
+    "stadium": "metlife stadium",
+    "lat": "40.8131197",
+    "long": "-74.0742911"
+},
+{
+    "team": "lions",
+    "stadium": "ford field",
+    "lat": "42.34",
+    "long": "-83.045556"
+},
+{
+    "team": "bears",
+    "stadium": "soldier field",
+    "lat": "41.8625",
+    "long": "-87.616667"
+},
+{
+    "team": "packers",
+    "stadium": "lambeau field",
+    "lat": "44.501",
+    "long": "-88.062"
+},
+{
+    "team": "vikings",
+    "stadium": "tcf bank stadium",
+    "lat": "44.976",
+    "long": "-93.225"
+},
+{
+    "team": "falcons",
+    "stadium": "georgia dome",
+    "lat": "33.7575",
+    "long": "-84.400833"
+},
+{
+    "team": "saints",
+    "stadium": "mercedes-benz superdome",
+    "lat": "29.950833",
+    "long": "-90.081111"
+},
+{
+    "team": "buccaneers",
+    "stadium": "raymond james stadium",
+    "lat": "27.975833",
+    "long": "-82.503333"
+},
+{
+    "team": "panthers",
+    "stadium": "bank of america stadium",
+    "lat": "35.225833",
+    "long": "-80.852778"
+},
+{
+    "team": "seahawks",
+    "stadium": "centurylink field",
+    "lat": "47.5949685",
+    "long": "-122.3316641"
+},
+{
+    "team": "49ers",
+    "stadium": "levi's stadium",
+    "lat": "37.403",
+    "long": "-121.97"
+},
+{
+    "team": "cardinals",
+    "stadium": "university of phoenix stadium",
+    "lat": "33.5275",
+    "long": "-112.2625"
+},
+{
+    "team": "rams",
+    "stadium": "los angeles memorial coliseum",
+    "lat": "34.014167",
+    "long": "-118.287778"
+}]
