@@ -1,3 +1,10 @@
-Untitled*
-.ipynb_checkpoints/*
-*~
+# ignore everything
+*
+
+# except
+!perfect_shuffle.ipynb
+!nfl_scores.ipynb
+!nfl_travelling_distances.ipynb
+!data/*
+
+
