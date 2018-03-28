@@ -2,9 +2,9 @@
 *
 
 # except
-!perfect_shuffle.ipynb
-!nfl_scores.ipynb
-!nfl_travelling_distances.ipynb
+!PerfectShuffle.ipynb
+!NflScores.ipynb
+!NflTravelDistances.ipynb
+!ImageGeneration.ipynb
+!WolframCellularAutomata.ipynb
 !data/*
-
-
