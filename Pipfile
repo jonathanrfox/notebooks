@@ -1,0 +1,28 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+jupyter = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+requests = "*"
+pillow = "*"
+"py2neo" = "*"
+aiohttp = "*"
+async-timeout = "*"
+cython = "*"
+
+
+[dev-packages]
+
+
+
+[requires]
+
+python_version = "3.6"

@@ -8,4 +8,6 @@
 !ImageGeneration.ipynb
 !WolframCellularAutomata.ipynb
 !SpaceFillingCurves.ipynb
+!Pipfile
+!Pipfile.lock
 !data/*
