@@ -17,6 +17,7 @@ pillow = "*"
 aiohttp = "*"
 async-timeout = "*"
 cython = "*"
+pycairo = "*"
 
 
 [dev-packages]
